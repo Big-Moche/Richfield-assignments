@@ -1,0 +1,85 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #043171;
+    padding-right: 20px;
+    position: sticky;
+    
+}
+.logo-box{
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #043171;
+    padding-right: 20px;
+}
+.logo{
+    height: 5vw;
+    height: 7vh;
+   
+}
+.headings{
+    text-decoration: none;
+    color: White;
+}
+.cards{
+    margin-top: 3%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100vh;
+    
+    
+}
+.home{
+    color:white ;
+    width: 40vw;
+    height: 40vh;
+    padding: 40px;
+}
+.home h1{
+    font-size: 50px;
+}
+.home p{
+    font-size: 24px;
+}
+.bannerwrap{
+    background: url(/assets/card2.jpg);
+    height: 40vh;
+    width: 40vw;
+}
+.bannerwrap1{
+    background: url(/assets/card3.jpg);
+    height: 40vh;
+    width: 40vw;
+}
+.bannerwrap2{
+    background: url(/assets/card4.jpg);
+    height: 40vh;
+    width: 40vw;
+}
+.bannerwrap3{
+    background: url(/assets/card5.jpg);
+    height: 40vh;
+    width: 40vw;
+}
+.footer{
+    border-top: 1px solid gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign-up{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign-up-button{
+    margin-top: 2%;
+    border-radius: 5px;
+    height: 5vh;
+    width: 10vw;
+    background-color:#043171 ;
+}

@@ -1,0 +1,39 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #043171;
+    padding-right: 20px;
+    position: sticky;
+    
+}
+.logo-box{
+        display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #043171;
+    padding-right: 20px;
+}
+.logo{
+    height: 5vw;
+    height: 7vh;
+   
+}
+.headings{
+    text-decoration: none;
+    color: White;
+}
+.logo-wrap{
+    background: url(/assets/logowr.jpg);
+    height: 100vh;
+     background-size: cover; 
+  background-repeat: no-repeat; 
+  background-position: center; 
+  background-attachment: fixed;
+}
+.sign-inputs{
+display: flex;
+align-items: center;
+justify-content: start;
+
+}
